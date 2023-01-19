@@ -11,12 +11,17 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
+    border: 1px solid #ddd;
     margin: 0 auto;
-    background-color: beige;
-    border: 1px solid blue;
 }
 
 #container h1
 {
     font-size: 20 px;
+}
+
+#post
+{
+    background: white;
+    padding: 1em;
 }
